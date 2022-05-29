@@ -26,7 +26,7 @@
     + [Информационные технологии оценки персонала](https://github.com/ShekhovtcovaE/portfolio_4/tree/main/ITManagment/IT_HR)
     + [IT-рекрутмент](https://github.com/ShekhovtcovaE/portfolio_4/tree/main/ITManagment/IT_Recruitment)
     + [IT-менеджмент](https://github.com/ShekhovtcovaE/portfolio_4/tree/main/ITManagment/ITManag)
-    + [Основы бизнес-информатики]()https://github.com/ShekhovtcovaE/portfolio_4/tree/main/ITManagment/BuisnessInformatics)
+    + [Основы бизнес-информатики](https://github.com/ShekhovtcovaE/portfolio_4/tree/main/ITManagment/BuisnessInformatics)
 * Модуль "Информационные технологии"
     + [Интегрированные издательские системы и технологии](https://github.com/ShekhovtcovaE/portfolio_4/tree/main/IT/Publishing)
     + [Основы корпоративного электронного обучения](https://github.com/ShekhovtcovaE/portfolio_4/tree/main/IT/Studying)
