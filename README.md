@@ -21,4 +21,19 @@
     + [Компьютерный практикум](https://shekhovtcovae.github.io/web-portfolio/cp) 
     + [Разработка интерфейсов обогащенных веб-приложений](https://shekhovtcovae.github.io/web-portfolio/web2)
     + [Веб-проектирование и веб-языки](https://shekhovtcovae.github.io/web-portfolio/)
+    + [Серверные веб-технологии](https://github.com/ShekhovtcovaE/portfolio_4/tree/main/Server_web)
+* Модуль "Информационные технологии в управлении в IT-компании"
+    + [Информационные технологии оценки персонала](https://github.com/ShekhovtcovaE/portfolio_4/tree/main/ITManagment/IT_HR)
+    + [IT-рекрутмент](https://github.com/ShekhovtcovaE/portfolio_4/tree/main/ITManagment/IT_Recruitment)
+    + [IT-менеджмент](https://github.com/ShekhovtcovaE/portfolio_4/tree/main/ITManagment/ITManag)
+    + [Основы бизнес-информатики]()https://github.com/ShekhovtcovaE/portfolio_4/tree/main/ITManagment/BuisnessInformatics)
+* Модуль "Информационные технологии"
+    + [Интегрированные издательские системы и технологии](https://github.com/ShekhovtcovaE/portfolio_4/tree/main/IT/Publishing)
+    + [Основы корпоративного электронного обучения](https://github.com/ShekhovtcovaE/portfolio_4/tree/main/IT/Studying)
+* Модуль "Информационные ресурсы и средства профессиональной деятельности инженера"
+    + [Мировые информационные ресурсы и цифровые библиотеки](https://github.com/ShekhovtcovaE/portfolio_4/tree/main/ITinEngineering/DigitalLibr)
+    + [Организация электронной образовательной среды](https://github.com/ShekhovtcovaE/portfolio_4/tree/main/ITinEngineering/DigitalStudying)
+    + [Социальные и профессиональные вопросы информатики и ИТ](https://github.com/ShekhovtcovaE/portfolio_4/tree/main/ITinEngineering/Social)
+    + [Управление программными проектами](https://github.com/ShekhovtcovaE/portfolio_4/tree/main/ITinEngineering/ProjectManagment)
+
 
