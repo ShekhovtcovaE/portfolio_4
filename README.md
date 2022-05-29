@@ -2,4 +2,8 @@
 * Модуль "Естественно-математический"
     + [Математические основы компьютерной графики](https://github.com/ShekhovtcovaE/Graphics)
 * Модуль "Организация ЭВМ"
-    + [Защита информации](https://github.com/ShekhovtcovaE/Graphics)
+    + [Защита информации](https://github.com/ShekhovtcovaE/portfolio_4/tree/main/OrgComp/DataProtection)
+    + [Сети и телекоммуникации](https://github.com/ShekhovtcovaE/portfolio_4/tree/main/OrgComp/Network)
+* Модуль "Системное и прикладное программное обеспечение
+    + [Программирование](https://github.com/ShekhovtcovaE/ProgPortfolio)
+    + [Базы данных](https://github.com/ShekhovtcovaE/portfolio_4/tree/main/OrgComp/Network)
